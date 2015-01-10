@@ -1,2 +1,3 @@
 it is a planet
 it is not a star.
+it is the 3rd planet in the solar system.
