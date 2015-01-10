@@ -1,1 +1,2 @@
 it is a planet
+it is not a star.
